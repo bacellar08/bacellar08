@@ -12,11 +12,17 @@ Hello! I'm a technology enthusiast with a passion for crafting incredible digita
 🧪 Unit Testing: Implementation to ensure code quality.
 
 💻 Front-End: Proficient in HTML, including HTML tags and semantic HTML for SEO optimization. Specialized in CSS with Grid, Flexbox, Responsiveness, Sass, Styled-components, CSS in JS, and familiarity with frameworks like Bootstrap and Material UI.
+
 🧩 JavaScript: Proficient in DOM manipulation, event handling, and interaction with APIs.
+
 ⚛️ React: Experienced in React, TypeScript, Next.js, React Router, testing with Jest and React Testing Library, working with Context, and integrating APIs using Axios.
+
 📱 React Native: Basic knowledge of mobile development with React Native.
+
 📊 Back-End: Competent in Node.js, MySQL and MongoDB for efficient data storage and retrieval, as well as experience in back-end development for building and maintaining servers and APIs.
+
 🌐 WordPress: Previous experience with the WordPress platform.
+
 
 My professional journey began in graphic design, where I honed creative and aesthetic skills. However, my passion for programming led to a successful transition into software development, where I can blend creativity with technical prowess.
 
