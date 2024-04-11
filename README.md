@@ -1,44 +1,13 @@
-👨‍💻 Front-End Developer | Graphic Designer Turned Coder 🎨
+My journey began in the world of graphic design, where I first encountered front-end developers. Since then, I've been blending my experience with honing my skills as a developer.
 
-Hello! I'm a technology enthusiast with a passion for crafting incredible digital experiences. With a background in graphic design and currently pursuing a degree in Analysis and Systems Development, I've cultivated a diverse set of technical skills that allow me to bring my creative visions to life.
+On the front-end, I have a solid command of semantic HTML, allowing me to create web structures optimized for SEO and accessibility. I utilize libraries like Tailwind CSS and Material UI to craft responsive interfaces.
 
-🚀 Skills and Expertise:
+In the React universe, I build scalable applications, leveraging libraries such as React Router for routing management and Context for state management. I excel in event handling and API interaction, delivering dynamic user experiences.
 
-🌟 Recent Updates:
+On the server-side, I'm proficient in Node.js and have experience with relational and non-relational databases, including MySQL and MongoDB. Recently, I've delved into Next.js, exploring its capabilities and integrating TypeScript for safer code, as well as developing full-stack applications, providing comprehensive solutions for various projects.
 
-💡 Next.js Fullstack Framework: Advanced proficiency in Next.js, with a focus on TypeScript, Tailwind CSS, and tRPC (T3 stack).
-🔗 API Development: Enhanced skills in building efficient APIs.
-📊 Databases: Exploration of databases, with a focus on SQL.
-🧪 Unit Testing: Implementation to ensure code quality.
+Currently, my primary development stack is MERN (MongoDB, Express.js, React.js, and Node.js), where I have a solid command. With this stack, I develop modern web applications, from server setup to building responsive UIs.
 
-💻 Front-End: Proficient in HTML, including HTML tags and semantic HTML for SEO optimization. Specialized in CSS with Grid, Flexbox, Responsiveness, Sass, Styled-components, CSS in JS, and familiarity with frameworks like Bootstrap and Material UI.
+My journey extends beyond web development—I also have basic knowledge in mobile development with React Native. Additionally, I have previous experience with the WordPress platform, enabling me to offer integrated and versatile solutions for different development needs.
 
-🧩 JavaScript: Proficient in DOM manipulation, event handling, and interaction with APIs.
-
-⚛️ React: Experienced in React, TypeScript, Next.js, React Router, testing with Jest and React Testing Library, working with Context, and integrating APIs using Axios.
-
-📱 React Native: Basic knowledge of mobile development with React Native.
-
-📊 Back-End: Competent in Node.js, MySQL and MongoDB for efficient data storage and retrieval, as well as experience in back-end development for building and maintaining servers and APIs.
-
-🌐 WordPress: Previous experience with the WordPress platform.
-
-
-My professional journey began in graphic design, where I honed creative and aesthetic skills. However, my passion for programming led to a successful transition into software development, where I can blend creativity with technical prowess.
-
-I'm always on the lookout for new challenges and opportunities to enhance my skills. If you're seeking a versatile front-end developer committed to excellence, I'm ready to collaborate on exciting projects. Let's build something amazing together!
-
-<!--
-**bacellar08/bacellar08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also fluent in English, enabling effective communication in a global context. I'm always on the lookout for opportunities to expand my knowledge and enhance my skills.
