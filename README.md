@@ -1,13 +1,13 @@
-My journey began in the world of graphic design, where I first encountered front-end developers. Since then, I've been blending my experience with honing my skills as a developer.
+My journey began in graphic design, where I had my first contact with front-end developers. Since then, I have been combining my experience with my improvement as a developer.
 
-On the front-end, I have a solid command of semantic HTML, allowing me to create web structures optimized for SEO and accessibility. I utilize libraries like Tailwind CSS and Material UI to craft responsive interfaces.
+On the front-end, I have a solid command of semantic HTML, allowing me to create web structures optimized for SEO and accessibility. I use libraries like Tailwind CSS, Material UI, and StyledComponents to style responsive interfaces.
 
-In the React universe, I build scalable applications, leveraging libraries such as React Router for routing management and Context for state management. I excel in event handling and API interaction, delivering dynamic user experiences.
+With React.js, I develop applications using libraries like React Router for routing management, Context for state management, and Axios for HTTP requests and API interactions.
 
-On the server-side, I'm proficient in Node.js and have experience with relational and non-relational databases, including MySQL and MongoDB. Recently, I've delved into Next.js, exploring its capabilities and integrating TypeScript for safer code, as well as developing full-stack applications, providing comprehensive solutions for various projects.
+On the back-end, I am proficient in Node.js and Java with Spring Boot, and I have experience with relational and non-relational databases, such as PostgreSQL and MongoDB. Recently, I have been delving into Next.js, exploring its capabilities, and integrating TypeScript for safer code.
 
-Currently, my primary development stack is MERN (MongoDB, Express.js, React.js, and Node.js), where I have a solid command. With this stack, I develop modern web applications, from server setup to building responsive UIs.
+Currently, I develop full-stack applications using Java Spring Boot, React, and PostgreSQL as my main stack, but I am also comfortable using the MERN (MongoDB, Express.js, React.js, and Node.js) pattern or its variation with Vue.js, in which I have good knowledge.
 
-My journey extends beyond web development—I also have basic knowledge in mobile development with React Native. Additionally, I have previous experience with the WordPress platform, enabling me to offer integrated and versatile solutions for different development needs.
+My journey is not limited to web development - I also have basic knowledge in mobile development with React Native. Additionally, I have previous experience with the WordPress platform and plugins like Elementor and Woocommerce, which allows me to offer solutions for different development needs.
 
-I'm also fluent in English, enabling effective communication in a global context. I'm always on the lookout for opportunities to expand my knowledge and enhance my skills.
+I am also fluent in English, allowing me to communicate effectively in a global context, and I have an intermediate level in French. I am always seeking opportunities to expand my knowledge and improve my skills.
