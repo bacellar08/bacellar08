@@ -18,6 +18,10 @@ I am also fluent in English, allowing me to communicate effectively in a global 
 <p align="left">
 	
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="nodejs" width="55" height="55" />
+          
+          
 </p>
   
 <!-- #### 🛢 Databases & Cloud Hosting &nbsp; --> 
