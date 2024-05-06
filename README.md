@@ -55,10 +55,9 @@ I am also fluent in English, allowing me to communicate effectively in a global 
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 <img alt="Docker"src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white" />
 </p><p align="left">	
-<img alt="Clean Architecture" src="https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white" />
+<img alt="BFF" src="https://img.shields.io/badge/BFF-F7DF1E.svg?&style=flat&logo=tdd&logoColor=white" />
 <img alt="DDD" src="https://img.shields.io/badge/DOMAIN%20DD-02569B.svg?&style=flat&logo=ddd&logoColor=white" />
 <img alt="TDD" src="https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=tdd&logoColor=white" />
-<img alt="Kafka" src="https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white" />
 </p> 
 
@@ -68,6 +67,5 @@ I am also fluent in English, allowing me to communicate effectively in a global 
 <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white" />
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black "/>  
 <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-%23F24E1E.svg?style=flat&logo=Adobe%20Illustrator&Color=white"/>
-<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white"/> 
 </p>
