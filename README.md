@@ -18,7 +18,6 @@ I am also fluent in English, allowing me to communicate effectively in a global 
 <p align="left">
 	
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="nodejs" width="55" height="55" />
           
           
@@ -40,6 +39,7 @@ I am also fluent in English, allowing me to communicate effectively in a global 
 <img alt="TypeScript" src="https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/React-%23007ACC.svg?&style=flat&logo=react&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=Angular&logoColor=white" />
+<img alt="NodeJS" src="https://img.shields.io/badge/-Node-5FA04E?logo=nodedotjs&logoColor=white&style=flat" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=CSS3&logoColor=white" /> 
 <img alt="HTML5" src="https://img.shields.io/badge/HTML55-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white" /> 
 
