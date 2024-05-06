@@ -47,16 +47,11 @@ I am also fluent in English, allowing me to communicate effectively in a global 
 <p align="left">
 <img alt="SCRUM" src="https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white" />
 <img alt="Maven" src="https://img.shields.io/badge/MAVEN-C71A36.svg?&style=flat&logo=apache-maven" />
-<img alt="Gradle" src="https://img.shields.io/badge/GRADLE-02303A.svg?&style=flat&logo=gradle" />
 <img alt="REST API" src="https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white" />
-<img alt="GRAPHQL" src="https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white" />
-<img alt="LINUX" src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p><p align="left">
 <img alt="VSCode" src="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code" />
-<img alt="Eclipse" src="https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse" />
 <img alt="IntelliJ" src="https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea" />
 <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white" />
-<img alt="GitLab"src="https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white" />
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 <img alt="Docker"src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white" />
 </p><p align="left">	
@@ -72,7 +67,7 @@ I am also fluent in English, allowing me to communicate effectively in a global 
  <p align="left">
 <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white" />
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black "/>  
-<img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
+<img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-%23F24E1E.svg?style=flat&logo=Adobe%20Illustrator&Color=white"/>
 <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white"/> 
 </p>
