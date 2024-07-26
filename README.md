@@ -25,6 +25,7 @@
 <img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/React-%23007ACC.svg?&style=flat&logo=react&logoColor=white" />
+<img alt="dotNet" src="https://img.shields.io/badge/dotNet-512BD4.svg?&style=flat&logo=dotnet&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=Angular&logoColor=white" />
 <img alt="NodeJS" src="https://img.shields.io/badge/-Node-5FA04E?logo=nodedotjs&logoColor=white&style=flat" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=CSS3&logoColor=white" /> 
