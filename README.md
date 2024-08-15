@@ -65,10 +65,11 @@
 
 Fullstack developer with a focus on backend, specialized in Java and frameworks like SpringBoot. Solid experience in developing applications using Java, SpringBoot, and React, with proficiency in relational and non-relational databases and implementing unit tests. Adaptable and focused on continuous learning, with a history of leading projects and teamwork. Seeking new opportunities to apply and expand my technical knowledge in a collaborative environment, contributing to the development of innovative products and process optimization.
 
-<a href="https://github.com/bacellar08">
+<!-- <a href="https://github.com/bacellar08">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacellar08&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/bacellar08">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bacellar08&show_icons=true&theme=dracula&line_height=27" alt="Alexandre Bacellar's github stats"/>
-</a>
+</a> 
+-->
