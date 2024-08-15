@@ -68,3 +68,7 @@ Fullstack developer with a focus on backend, specialized in Java and frameworks 
 <a href="https://github.com/bacellar08">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacellar08&theme=dracula&hide_langs_below=1" />
 </a>
+
+<a href="https://github.com/bacellar08">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bacellar08&show_icons=true&theme=dracula&line_height=27" alt="Alexandre Bacellar's github stats"/>
+</a>
